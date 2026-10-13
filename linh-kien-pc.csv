@@ -1,0 +1,7 @@
+id,category,name,brand,specs,price,power_draw_w,compatibility_notes,usage_target
+1,RAM,RAM Kingston FURY Beast 16GB DDR4 3200MHz,Kingston,"16GB, DDR4, Bus 3200",850000,5,"Cần mainboard hỗ trợ khe DDR4","Chơi game Full HD, Đa nhiệm văn phòng"
+2,GPU,VGA ASUS Dual RTX 3060 12GB,ASUS,"12GB GDDR6, 192-bit, PCIe 4.0",7500000,170,"Cần nguồn tối thiểu 550W, nguồn có đầu cấp 8-pin","Chơi game AAA, Dựng video 2K"
+3,CPU,Intel Core i5-12400F,Intel,"6 nhân 12 luồng, Socket LGA1700, Max 4.4GHz",3200000,65,"Cần mainboard chipset H610/B660/B760, không có iGPU (cần VGA rời)","Chơi game, Làm việc đồ họa tầm trung"
+4,Mainboard,Mainboard MSI PRO B760M-E DDR4,MSI,"Micro-ATX, Socket LGA1700, 2 khe RAM DDR4",2300000,30,"Tương thích CPU Intel Gen 12, 13, 14; RAM DDR4","Lắp ráp PC tầm trung"
+5,SSD,SSD Samsung 980 NVMe M.2 500GB,Samsung,"NVMe PCIe 3.0x4, Tốc độ đọc 3100MB/s",1250000,6,"Cần slot M.2 NVMe trên Mainboard","Cài OS, Tải game nhanh"
+6,PSU,Nguồn Corsair CV650 650W 80 Plus Bronze,Corsair,"650W, 80 Plus Bronze, Non-Modular",1450000,0,"Đủ gánh dàn máy chạy RTX 3060 / RTX 4060",Cung cấp nguồn ổn định

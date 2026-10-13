@@ -1,0 +1,18 @@
+
+{
+"GEMINI_API_KEY": "AQ.Ab8RN6KDdBuVWoeA99pk0AZiayovvQYZM9Jk9Vyjsqp0GY9o7Q",
+"bot_name": "HardwareBot",
+"store_name": "TechZone - Tư Vấn & Linh Kiện Máy Tính",
+"store_address": "254 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh",
+"hotline": "0988-777-666",
+"opening_hours": "08:00 - 21:00 hàng ngày",
+"initial_bot_message": "Chào bạn! Tôi là HardwareBot, trợ lý AI tư vấn linh kiện máy tính. Bạn có thể tải lên ảnh linh kiện (GPU, RAM, CPU...) để tôi kiểm tra thông số, tư vấn độ tương thích hoặc gợi ý nâng cấp nhé!",
+"functions": [
+"Nhận diện linh kiện máy tính qua hình ảnh (Vision AI)",
+"Tra cứu thông số kỹ thuật và công suất tiêu thụ",
+"Kiểm tra tính tương thích giữa các linh kiện (Socket, Bus, Wattage)",
+"Gợi ý cấu hình / nâng cấp PC theo ngân sách"
+],
+"out_of_scope_message": "Tôi chưa hỗ trợ sản phẩm này hoặc thắc mắc nằm ngoài danh mục linh kiện máy tính. Bạn vui lòng liên hệ hotline 0988-777-666 để kĩ thuật viên tư vấn trực tiếp nhé!"
+}
+
